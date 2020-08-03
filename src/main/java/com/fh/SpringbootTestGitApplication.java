@@ -10,4 +10,8 @@ public class SpringbootTestGitApplication {
         SpringApplication.run(SpringbootTestGitApplication.class, args);
     }
 
+
+    public  void aa(String[] args) {
+        System.out.println("fadfgrd");
+    }
 }
