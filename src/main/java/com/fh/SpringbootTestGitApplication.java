@@ -17,6 +17,6 @@ public class SpringbootTestGitApplication {
     @RequestMapping("hello")
     public  String hello() {
         System.out.println("fadfgrd");
-        return  "19045678";
+        return  "测试";
     }
 }
